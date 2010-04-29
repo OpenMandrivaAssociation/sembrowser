@@ -1,7 +1,7 @@
 Summary:        Faceted side panel using nepomuk
 Name:           sembrowser
-Version:        0.1
-Release:        %mkrel 2
+Version:        0.2
+Release:        %mkrel 1
 License:        GPLv2+
 Group:          Graphical desktop/KDE
 Source0:        117692-%name-%version.tar.gz
