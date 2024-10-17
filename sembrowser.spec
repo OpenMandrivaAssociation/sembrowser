@@ -5,7 +5,7 @@ Release:        %mkrel 2
 License:        GPLv2+
 Group:          Graphical desktop/KDE
 Source0:        117692-%name-%version.tar.gz
-URL:            http://www.kde-apps.org/content/show.php/Sembrowser?content=117692
+URL:            https://www.kde-apps.org/content/show.php/Sembrowser?content=117692
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:  kdelibs4-devel
 BuildRequires:  kdebase4-devel
