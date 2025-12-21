@@ -7,6 +7,7 @@ Group:          Graphical desktop/KDE
 Source0:        117692-%name-%version.tar.gz
 URL:            https://www.kde-apps.org/content/show.php/Sembrowser?content=117692
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:  kdelibs4-devel
 BuildRequires:  kdebase4-devel
 
